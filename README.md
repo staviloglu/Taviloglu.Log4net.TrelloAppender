@@ -1,7 +1,7 @@
-# Taviloglu.log4net.TrelloAppender
+# Taviloglu.log4net.TrelloAppender [![NuGet](https://img.shields.io/nuget/v/Taviloglu.log4net.TrelloAppender.svg)](https://www.nuget.org/packages/Taviloglu.log4net.TrelloAppender/) [![NuGet Downloads](https://img.shields.io/nuget/dt/Taviloglu.log4net.TrelloAppender.svg)](https://www.nuget.org/packages/Taviloglu.log4net.TrelloAppender/)
 Custom appender for log4net which adds logs as new card in provided Trello list.
 
-# Sample Configuration
+# Sample Configuration 
 ```xml
 <log4net>
   <appender name="TrelloAppender" type="Taviloglu.log4net.TrelloAppender, Taviloglu.log4net.TrelloAppender" >

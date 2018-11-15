@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taviloglu.log4net.TrelloAppender", "Taviloglu.Log4net.TrelloAppender\Taviloglu.log4net.TrelloAppender.csproj", "{B84E5033-C126-4623-A1C2-9E3A6E1E346D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taviloglu.log4net.TrelloAppender.Sample", "Taviloglu.Log4net.TrelloAppender.Sample\Taviloglu.log4net.TrelloAppender.Sample.csproj", "{DB7DC33F-05B5-4234-B912-CBB6A597A272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84E5033-C126-4623-A1C2-9E3A6E1E346D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E5033-C126-4623-A1C2-9E3A6E1E346D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E5033-C126-4623-A1C2-9E3A6E1E346D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E5033-C126-4623-A1C2-9E3A6E1E346D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7DC33F-05B5-4234-B912-CBB6A597A272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7DC33F-05B5-4234-B912-CBB6A597A272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7DC33F-05B5-4234-B912-CBB6A597A272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7DC33F-05B5-4234-B912-CBB6A597A272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0696E645-A7CC-41D7-AB59-A6B940732F49}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Custom appender for log4net which adds logs as new card in provided Trello list.</Description>
+    <Authors>Sinan Taviloglu</Authors>
+    <Company>Sinan Taviloglu</Company>
+    <Copyright>Copyright (c) 2018 SINAN TAVILOGLU</Copyright>
+    <PackageProjectUrl>https://github.com/staviloglu/Taviloglu.log4net.TrelloAppender</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/staviloglu/Taviloglu.log4net.TrelloAppender.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>log4net logging log trello appender log4net-appender log</PackageTags>
+    <RootNamespace>Taviloglu.log4net</RootNamespace>
+    <AssemblyName>Taviloglu.log4net.TrelloAppender</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+  </ItemGroup>
+
+</Project>

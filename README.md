@@ -1,6 +1,10 @@
 # Taviloglu.log4net.TrelloAppender [![NuGet](https://img.shields.io/nuget/v/Taviloglu.log4net.TrelloAppender.svg)](https://www.nuget.org/packages/Taviloglu.log4net.TrelloAppender/) [![NuGet Downloads](https://img.shields.io/nuget/dt/Taviloglu.log4net.TrelloAppender.svg)](https://www.nuget.org/packages/Taviloglu.log4net.TrelloAppender/)
 Custom appender for log4net which adds logs as new card in provided Trello list.
 
+## Donate
+If you find this library useful and if it saved you time, you can
+<a href="https://www.buymeacoffee.com/staviloglu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 # Sample Configuration 
 ```xml
 <log4net>
